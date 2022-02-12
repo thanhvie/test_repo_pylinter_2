@@ -1,7 +1,7 @@
 pep8:
 	flake8 ./service ./test
 run:
-	python3 ./main.py
+	python3 ./app.py
 
 run-test:
 	coverage run -m pytest
