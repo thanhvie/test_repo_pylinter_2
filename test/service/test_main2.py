@@ -1,4 +1,4 @@
-from temp import app2
+from service import app2
 
 
 def test_sub():
